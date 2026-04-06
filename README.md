@@ -30,11 +30,11 @@ These practicals help bridge theory with real networking tasks and reinforce ski
 
 Completing CAB222 equips with practical and theoretical capabilities in:
 
--✅ Networking design and implementation
--✅ Protocol analysis and troubleshooting
--✅ Packet capture and interpretation
--✅ Security analysis in networked environments
--✅ Use of professional networking tools
+- ✅ Networking design and implementation
+- ✅ Protocol analysis and troubleshooting
+- ✅ Packet capture and interpretation
+- ✅ Security analysis in networked environments
+- ✅ Use of professional networking tools
 
 These skills are valuable for roles such as:
 - Network Technician
