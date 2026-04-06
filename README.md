@@ -1,4 +1,4 @@
-**📘 CAB222 – Networks**
+# **📘 CAB222 – Networks**
 
 CAB222 Networks introduces both theoretical and practical aspects of modern computer networking. This unit builds on existing digital systems knowledge and prepares for network‑related tasks in real‑world computing environments.
 
