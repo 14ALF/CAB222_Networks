@@ -28,21 +28,13 @@ CAB222 is a hands‑on unit, emphasising experiential learning. Practical labs a
 
 These practicals help bridge theory with real networking tasks and reinforce skills used by network professionals.
 
-📖 Assessment Overview
-
-Assessment in this unit often includes:
-
-Group Project Report + Presentation – practical network analysis and security investigation.
-Weekly practical labs – scored based on completion and correct use of network tools.
-Final written exam – multiple‑choice and problem‑solving questions covering lectures & tutorials.
-
 Completing CAB222 equips with practical and theoretical capabilities in:
 
-✅ Networking design and implementation
-✅ Protocol analysis and troubleshooting
-✅ Packet capture and interpretation
-✅ Security analysis in networked environments
-✅ Use of professional networking tools
+-✅ Networking design and implementation
+-✅ Protocol analysis and troubleshooting
+-✅ Packet capture and interpretation
+-✅ Security analysis in networked environments
+-✅ Use of professional networking tools
 
 These skills are valuable for roles such as:
 - Network Technician
