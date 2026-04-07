@@ -2,14 +2,6 @@
 
 CAB222 Networks introduces both theoretical and practical aspects of modern computer networking. This unit builds on existing digital systems knowledge and prepares for network‑related tasks in real‑world computing environments.
 
-### Learning Outcomes
-
-- Understand fundamental and modern network concepts and architectures.
-- Design, implement and maintain network‑based applications and systems.
-- Participate in hands‑on practical networking exercises to gain real experience.
-- Use industry‑standard network tools for traffic capture, analysis, security assessment and troubleshooting.
-- Perform common operations tasks such as analysing network traffic and identifying security issues.
-
 ### Topics covered:
 
 - Network fundamentals: OSI and TCP/IP models
